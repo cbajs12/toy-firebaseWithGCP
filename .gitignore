@@ -1,0 +1,15 @@
+.idea
+.firebaserc
+firebase.json
+firebase-debug.log
+
+## Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# Typescript v1 declaration files
+functions/typings/
+
+functions/node_modules/
+functions/package-lock.json
+functions/firebase-debug.log
